@@ -28,7 +28,7 @@ class Plair {
     }
 
     setTimeout(() => {
-      console.log("Fenished");
+      console.log("Finished");
     }, time)
 
   }
